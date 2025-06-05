@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "sentrii"
 include(":app")
- 
+include(":Registro")
+include(":Sentrix") 
